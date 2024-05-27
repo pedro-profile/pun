@@ -1,5 +1,8 @@
-#banner {
-	text-align: center;
+body {
+    background: #fff;
+    text-align: center;
+	display: block;
+    margin: 8px;
 }
 #keywords h1{
 	text-align: center;
@@ -12,13 +15,21 @@
 	color: grey;
 	font-size: 100px;	
 }
-#keywords h3{
-	text-align: center;
+.joined h1{
+	display: inline-block;
 	color: grey;
-	font-size: 50px;	
+	font-size: 70px;	
+}
+.joined h3{
+	display: inline-block;
+	color: grey;
+	font-size: 60px;	
 }
 #keywords p{
 	text-align: center;
 	color: grey;
 	font-size: 30px;	
+}
+#banner {
+	text-align: center;
 }
