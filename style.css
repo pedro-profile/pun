@@ -1,37 +1,43 @@
 body {
-    background: #fff;
-    text-align: center;
+	background: #fff;
+	text-align: center;
 	display: block;
-    margin: 8px;
+	margin: 8px;
 }
-#keywords h1{
+
+#keywords h1 {
 	text-align: center;
 	color: #2b8699;
-	font-size: 100px;	
+	font-size: 100px;
 	font-weight: 900;
 }
-#keywords h2{
+
+#keywords h2 {
 	text-align: center;
 	color: grey;
-	font-size: 100px;	
+	font-size: 100px;
 }
-.joined h1{
+
+.joined h1 {
 	display: inline-block;
 	text-align: center;
 	color: grey;
-	font-size: 70px;	
+	font-size: 70px;
 }
-.joined h3{
+
+.joined h3 {
 	display: inline-block;
 	text-align: center;
 	color: grey;
-	font-size: 60px;	
+	font-size: 60px;
 }
-#keywords p{
+
+#keywords p {
 	text-align: center;
 	color: grey;
-	font-size: 30px;	
+	font-size: 30px;
 }
+
 #banner {
 	text-align: center;
 }
