@@ -18,13 +18,13 @@ body {
 	font-size: 100px;
 }
 
-.join h1,h3,p, {
+.j oin h1,h3,p, {
 	display: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 70px;
 }
-.join p, {
+.join p{
 	display: inline-block;
 	text-align: center;
 	color: grey;
