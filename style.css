@@ -18,19 +18,14 @@ body {
 	font-size: 100px;
 }
 
-.join h1,h3,p {
+.join h1,h3,p, {
 	display: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 70px;
 }
 
-.join h3 {
-	display: inline-block;
-	text-align: center;
-	color: grey;
-	font-size: 60px;
-}
+
 
 #keywords p {
 	text-align: center;
